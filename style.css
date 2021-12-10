@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    background-color: lightblue;
+}
+li{
+    font-size: 18px;
+}
+img {
+    width: auto;
+    height: 500px;
+}
+p {
+    background-color: rgb(217, 219, 219);
+}
+h2,
+h3 {
+    background-color: lightseagreen;
+}
+
+a {
+    background-color: lightpink;
+}
